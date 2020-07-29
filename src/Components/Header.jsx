@@ -29,7 +29,7 @@ const Header = () => {
               no matter where you are deliverying.
             </p>
             <Button name='Try Vyorus' />
-            <Button name='One More' />
+            <Button name='One More' className='btn3' />
             <p className='text-p2'>
               Need to order a delivery ?
               <span className='text-span'>Get Help </span>

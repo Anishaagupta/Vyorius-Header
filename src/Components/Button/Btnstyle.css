@@ -2,6 +2,12 @@
   align-items: right;
   height: 50px;
   width: 160px;
-  background-color: rgb(201, 45, 18);
+  border: 2px solid rgb(247, 101, 57);
+  background-color: rgb(247, 101, 57);
+  border-radius: 7px;
   color: rgb(252, 248, 247);
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
 }

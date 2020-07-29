@@ -12,7 +12,9 @@
 }
 .logo1 {
   align-items: left;
-  margin-right: 1150px;
+  margin-right: 800px;
+  margin-left: 20px;
+  padding-bottom: 10px;
   height: 60px;
 }
 .sec {
@@ -20,9 +22,10 @@
   justify-content: center;
 }
 .logo2 {
-  margin-right: 90px;
   align-items: left;
-  height: 20px;
+  margin-left: -1500px;
+  margin-top: 12px;
+  height: 30px;
 }
 .logo3 {
   padding-left: 550px;
@@ -30,4 +33,6 @@
   margin-top: 40px;
 }
 .text {
+  text-align: left;
+  margin-left: 40px;
 }

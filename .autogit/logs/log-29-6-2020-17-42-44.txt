@@ -1,0 +1,28 @@
+-------------------- Auto-Git Log --------------------
+		Wed Jul 29 2020 17:42:44 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/App.js
+* src/index.js
+
+
+Created files:
+* .autogit/autogit.json
+* src/Components/Header.jsx
+* src/Components/HeaderStyle.css
+* src/Components/Image.jsx
+* src/Components/Logoimg.css
+* src/assets/a.png
+* src/assets/b.png
+* src/assets/c.png
+
+
+Deleted files:
+* src/App.test.js
+* src/logo.svg
+* src/serviceWorker.js
+* src/setupTests.js
+
+
+Renamed files:

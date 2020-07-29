@@ -7,12 +7,27 @@
   background-color: rgb(197, 228, 228);
   height: 10vh;
   width: 100%;
+  display: flex;
+  justify-content: left;
 }
 .logo1 {
   align-items: left;
-  margin-right: 1250px;
-  margin-bottom: 10px;
+  margin-right: 1150px;
+  height: 60px;
+}
+.sec {
+  display: flex;
+  justify-content: center;
 }
 .logo2 {
-  align-items: right;
+  margin-right: 90px;
+  align-items: left;
+  height: 20px;
+}
+.logo3 {
+  padding-left: 550px;
+  height: 380px;
+  margin-top: 40px;
+}
+.text {
 }

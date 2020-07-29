@@ -24,8 +24,9 @@ const Header = () => {
             </ul>
           </div>
         </div>
-        <Button className='btn1' name='Launch Vyorius' />
+        <button className='btn1'>Launch Vyorius</button>
       </div>
+
       <div>
         <div className='text'>
           <img src={pic} alt='img' className='logo3' />
@@ -46,13 +47,13 @@ const Header = () => {
           </p>
           <div className='btn3'>
             <Button name='Try Vyorus' />
-            <Button name='One More' className='two' />
+            <Button name='One More' />
           </div>
           <p className='text-p2'>
             Need to order a delivery?
-            <span className='text-span'>
-              <a href='#'> Get Help </a>
-            </span>
+            <a className='text-span' href='#head' target='_blank'>
+              Get Started
+            </a>
           </p>
         </div>
       </div>

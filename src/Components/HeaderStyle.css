@@ -28,15 +28,21 @@
   height: 30px;
 }
 .logo3 {
-  padding-left: 550px;
-  height: 380px;
-  margin-top: 40px;
+  padding-left: 580px;
+  height: 400px;
+  margin-top: 50px;
 }
 .text {
   text-align: left;
   margin-left: 40px;
 }
-.btn3 {
-  background-color: white;
-  padding-left: 20px;
+.list ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+.list1 {
+  font-size: 14px;
+  font-weight: 400;
 }

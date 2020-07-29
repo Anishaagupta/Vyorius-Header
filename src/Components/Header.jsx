@@ -13,6 +13,17 @@ const Header = () => {
         <div className='sec'>
           <img src={name} alt='logoimg' className='logo2' />
         </div>
+        <div className='list'>
+          <ul>
+            <li className='list1'>Why Vyorius?</li>
+            <li className='list1'>Solutions</li>
+            <li className='list1'>Product</li>
+            <li className='list1'>Use Cases</li>
+            <li className='list1'>Team</li>
+            <li className='list1'>Partners</li>
+            <li className='list1'>Contact us</li>
+          </ul>
+        </div>
         <Button className='btn1' name='Launch Vyorius' />
       </div>
       <div className='container'>
@@ -28,7 +39,10 @@ const Header = () => {
               place, unmanned vehicles will stay connected and productive when
               no matter where you are deliverying.
             </p>
-            <Button name='Try Vyorus' />
+            <Button
+              style={{ backgroundColor: 'white', paddingLeft: 20 }}
+              name='Try Vyorus'
+            />
             <Button name='One More' className='btn3' />
             <p className='text-p2'>
               Need to order a delivery ?

@@ -42,6 +42,7 @@
   font-weight: 500;
   padding-left: 10px;
 }
+
 .logo3 {
   padding-left: 580px;
   height: 400px;
@@ -56,7 +57,7 @@
   color: rgb(247, 101, 57);
 }
 .text-h1 {
-  text-align: left;
+  text-align: justify;
   margin-left: 40px;
 }
 .text-p1 {
